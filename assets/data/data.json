@@ -186,5 +186,10 @@
             "certificate": ""
         }
     ],
-    "extras": []
+    "extras": [{
+        "image": "/PersonalProjectImages/music-school-project.jpg",
+        "title": "Web site for High School Musical",
+        "description": "I learned nodejs, html5,css3,grunt",
+        "url": "https://github.com/luis-fernando-camacho-dev-projects/ColegioEPA"
+    }]
 }
