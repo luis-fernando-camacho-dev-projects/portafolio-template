@@ -1,62 +1,101 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Luis Camacho|Full Stack Developer",
+    "description": "Self-driven full stack developer with +6 years of experience with .NET technologies mainly ASP.NET 6,, Web forms, .Net 6, JavaScript ,html,ASP.NET MVC, SQL server, Azure mainly in developing /maintenance/build from scratch for software commercial products for private organization(Financial, Health care,Startups) Knowledge in leading, mentoring, perform best practices for scalable    software(SOLID, Architecture solutions, agile methodologies, TDD) ,problem solver, consumer’s issues. I consider myself a     technology, learning enthusiast also I like to understand every small piece of the code/project of entire solution of the application, do the analysis, design and propose new way to solve the problem",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Luis Fernando Camacho Camacho",
+    "skill": "Full stack web development with .Net & JavaScript,TDD, Clean Architecture,leading,mentoring,Self-learning",
+    "location": "Bolivia",
     "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "email": "luis.c.c.dev@gmail.com",
+        "cv": "/data/Luis-Camacho-resumen.pdf",
+        "github": "https://github.com/luis-fernando-camacho-dev-projects",
+        "likedin": "https://www.linkedin.com/in/luis-fernando-camacho/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Self-driven full stack developer with +6 years of experience with .NET technologies mainly ASP.NET 6,, Web forms, .Net 6, JavaScript , html,ASP.NET MVC, SQL server, Azure mainly in developing /maintenance/build from scratch for software commercial products for private organization(Financial, Health care,Startups) Knowledge in leading, mentoring, perform best practices for scalable  software(SOLID, Architecture solutions, agile methodologies, TDD) ,problem solver, consumer’s issues. I consider myself a technology, learning enthusiast also I like to understand every small piece of the code/project of entire solution of the application, do the analysis, design and propose new way to solve the problem.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-dotnetcore-plain",
+            "name": ".net"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-blazor-original",
+            "name": "Blazor"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-css3-plain",
+            "name": "CSS3"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
-        }
+            "icon": "devicon-bootstrap-plain colored",
+            "name": "bootstrap"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML5"
+        },
+        {
+            "icon": "devicon-microsoftsqlserver-plain",
+            "name": "SQL"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-react-original colored",
+            "name": "ReactJs"
+        },
+        {
+            "icon": "devicon-angular-plain colored",
+            "name": "Angular"
+        },
+        {
+            "icon": "devicon-docker-plain colored",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-nodejs-plain",
+            "name": "NodeJs"
+        },
+        {
+            "icon": "devicon-github-original colored",
+            "name": "Git"
+        }        
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Truextend",
+            "subtitle": "Lead and Senior Software Developer",
+            "description": "Plan, Design Architecture Of Product,Lead, perform code review, TDD, Mentorship, Organize the team for the goals of Product in the Deadlines of Product Owner",
+            "date": "2018 - Current"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "terminal",
+            "title": "Jalasoft",
+            "subtitle": "Staff Developer",
+            "description": "Development,Maintenance, Investigation, Bug fixing, TDD,Design,Refactoring, Customer Support",
+            "date": "2014-2018"
+        },
+        {
+            "icon": "terminal",
+            "title": "Jalasoft",
+            "subtitle": "Junior Developer",
+            "description": "Bug fixing, Development,testing",
+            "date": "2012-2014"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "System Quote for enterprise",
+            "subtitle": "PROS Smart CPQ - Configure Price Quote",
+            "description": "Smart CPQ fully automates and optimizes Configure Price Quote (CPQ) processes on Salesforce. Streamline quoting, reduce costly errors, shorten the sales cycle, increase revenue, and deliver a best-in-class selling experience. Lightning Ready.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -68,8 +107,7 @@
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://matrix.fandom.com/wiki/MetaCortex"
         },
         {
             "icon": "bug-off",
@@ -83,8 +121,7 @@
                 }
             ],
             "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://matrix.fandom.com/wiki/Wiki"
         }
     ],
     "training": [
