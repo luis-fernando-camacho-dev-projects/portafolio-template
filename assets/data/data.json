@@ -98,68 +98,93 @@
             "description": "Smart CPQ fully automates and optimizes Configure Price Quote (CPQ) processes on Salesforce. Streamline quoting, reduce costly errors, shorten the sales cycle, increase revenue, and deliver a best-in-class selling experience. Lightning Ready.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-java-plain colored",
+                    "name": "Java"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-salesforce-plain colored",
+                    "name": "SalesForce"
+                },
+                {
+                    "icon": "devicon-html5-plain colored",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-javascript-plain colored",
+                    "name": "Javascript"
+                },
+                {
+                    "icon": "devicon-css3-plain colored",
+                    "name": "CSS3"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex"
+            "image": "/PRO-48326873.png",
+            "url": "https://pros.com/fr/news/quote2win-simplify-pricing-and-discounts-new-pros-app/"
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "StoragePoint",
+            "subtitle": "SharePoint 2016 BLOB storage",
+            "description": "Optimize your SharePoint storage infrastructure with the industry’s leading remote BLOB storage (RBS) solution. With StoragePoint, you can externalize files in real-time to less expensive storage devices without impacting performance, the user experience or native SharePoint functionality.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-html5-plain colored",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-javascript-plain colored",
+                    "name": "Javascript"
+                },
+                {
+                    "icon": "devicon-css3-plain colored",
+                    "name": "CSS3"
+                },
+                {
+                    "icon": "devicon-microsoftsqlserver-plain",
+                    "name": "SQL"
+                },
+                {
+                    "icon": "devicon-csharp-plain",
+                    "name": "C#"
+                },
+                {
+                    "icon": "devicon-dotnetcore-plain",
+                    "name": ".net"
+                },
+                {
+                    "icon": "devicon-azure-plain colored",
+                    "name": "Azure"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki"
+            "image": "/storage.jpg",
+            "url": "https://www.questpublicsector.com/documents/metalogix-storagepoint-datasheet-134683.pdf"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "graduation-cap",
+            "title": "Software Engineer",
+            "subtitle": "Universidad Mayor de San Simon",
+            "description": "I got the college degree",
+            "date": "2005-2010",
+            "certificate": "https://www.umss.edu.bo/licenciatura-en-ingenieria-en-informatica/"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Bootcamp ReactJs",
+            "subtitle": "Reactjs developer training",
+            "description": "I learned the reactjs technology",
+            "date": "2020 - 2021",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Pluralsight",
+            "subtitle": ".net developer path and Clean architecture path",
+            "description": "I learned about clean architecture and .net for enterprise application",
+            "date": "2018 - 2019",
+            "certificate": ""
         }
     ],
-    "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
-    ]
+    "extras": []
 }
